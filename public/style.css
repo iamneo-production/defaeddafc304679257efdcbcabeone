@@ -137,7 +137,9 @@ body {
   /* Player turn space */
   #print {
     box-sizing: border-box;
-    
+    border: 1px ;
+    margin-left: auto;
+    text-align: center;
     font-family: Verdana,
       Geneva, Tahoma, sans-serif;
     color:rgb(10, 10, 10);
