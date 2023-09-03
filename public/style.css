@@ -49,6 +49,7 @@ body {
     font-size: 50px;
     text-align: center;
     cursor: pointer;
+    font-weight: 500;
     background-color: transparent white;
   }
   .cell:hover {
@@ -60,51 +61,60 @@ body {
   }
   /* 3*3 Grid */
   #b1{
-    border-bottom: 1px solid gray;
-    border-right: 1px solid gray;
+    border-bottom: 3px solid gray;
+    border-right: 3px solid gray;
+    border-radius: 8px;
   }
   
   #b2 {
-    border-bottom: 1px solid gray;
-    border-right: 1px solid gray;
-    border-left: 1px solid gray;
+    border-bottom: 3px solid gray;
+    border-right: 3px solid gray;
+    border-left: 3px solid gray;
+    border-radius: 8px;
   }
   
   #b3 {
-    border-bottom: 1px solid gray;
-    border-left: 1px solid gray;
+    border-bottom: 3px solid gray;
+    border-left: 3px solid gray;
+    border-radius: 8px;
   }
   
   #b4 {
-    border-top: 1px solid gray;
-    border-bottom: 1px solid gray;
-    border-right: 1px solid gray;
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+    border-right: 3px solid gray;
+    border-radius: 8px;
   }
     
   #b5 {
-    border: 1px solid gray;
+    border: 3px solid gray;
+    border-radius: 8px;
   }
   
   #b6 {
-    border-top: 1px solid gray;
-    border-bottom: 1px solid gray;
-    border-left: 1px solid gray;
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+    border-left: 3px solid gray;
+    border-radius: 8px;
   }
   
   #b7 {
-    border-top: 1px solid gray;
-    border-right: 1px solid gray;
+    border-top: 3px solid gray;
+    border-right: 3px solid gray;
+    border-radius: 8px;
   }
   
   #b8 {
-    border-top: 1px solid gray;
-    border-right: 1px solid gray;
-    border-left: 1px solid gray;
+    border-top: 3px solid gray;
+    border-right: 3px solid gray;
+    border-left: 3px solid gray;
+    border-radius: 8px;
   }
   
   #b9 {
-    border-top: 1px solid gray;
-    border-left: 1px solid gray;
+    border-top: 3px solid gray;
+    border-left: 3px solid gray;
+    border-radius: 8px;
   }
   /* Reset Button */
   #but {
