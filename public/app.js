@@ -31,7 +31,7 @@ function myfunc() {
 	if ((b1 == 'x' || b1 == 'X') && (b2 == 'x' ||
 		b2 == 'X') && (b3 == 'x' || b3 == 'X')) {
 		document.getElementById('print')
-			.innerHTML = "Player X won";
+			.innerHTML = "Player X won 🎉";
 		b4btn.disabled = true;
 		b5btn.disabled = true;
 		b6btn.disabled = true;
@@ -46,7 +46,7 @@ function myfunc() {
 	else if ((b1 == 'x' || b1 == 'X') && (b4 == 'x' ||
 		b4 == 'X') && (b7 == 'x' || b7 == 'X')) {
 		document.getElementById('print')
-			.innerHTML = "Player X won";
+			.innerHTML = "Player X won 🎉";
 		b2btn.disabled = true;
 		b3btn.disabled = true;
 		b5btn.disabled = true;
@@ -61,7 +61,7 @@ function myfunc() {
 	else if ((b7 == 'x' || b7 == 'X') && (b8 == 'x' ||
 		b8 == 'X') && (b9 == 'x' || b9 == 'X')) {
 		document.getElementById('print')
-			.innerHTML = "Player X won";
+			.innerHTML = "Player X won 🎉";
 
 		b1btn.disabled = true;
 		b2btn.disabled = true;
@@ -77,7 +77,7 @@ function myfunc() {
 	else if ((b3 == 'x' || b3 == 'X') && (b6 == 'x' ||
 		b6 == 'X') && (b9 == 'x' || b9 == 'X')) {
 		document.getElementById('print')
-			.innerHTML = "Player X won";
+			.innerHTML = "Player X won 🎉";
 
 		b1btn.disabled = true;
 		b2btn.disabled = true;
